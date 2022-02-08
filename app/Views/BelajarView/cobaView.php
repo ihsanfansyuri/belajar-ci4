@@ -1,0 +1,1 @@
+"Halo, dunia. Selamat malam minggu";

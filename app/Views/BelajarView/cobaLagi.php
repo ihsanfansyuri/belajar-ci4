@@ -1,0 +1,1 @@
+<b><i> Halo, <?= $nama; ?>. Selamat malam <?= $hari; ?></i></b>

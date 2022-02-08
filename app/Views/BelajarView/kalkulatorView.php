@@ -1,0 +1,1 @@
+Hasil kali dari <?= $a; ?> dan <?= $b; ?> adakah <?= $hasil; ?>
